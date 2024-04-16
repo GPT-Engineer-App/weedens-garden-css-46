@@ -9,7 +9,7 @@ const Index = () => {
           <ul className="flex space-x-4">
             <li>
               <a href="#" className="hover:text-green-200">
-                Shop
+                Store
               </a>
             </li>
             <li>
